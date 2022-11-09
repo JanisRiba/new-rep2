@@ -7,6 +7,6 @@
     <title>Title</title>
 </head>
 <body>
-    <h1>Added new file</h1>
+    <h1>Made some changes</h1>
 </body>
 </html>
